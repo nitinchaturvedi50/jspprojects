@@ -1,0 +1,7 @@
+model\Credentia.class
+model\Credential.class
+dao\CredentiaDAO.class
+dao\CredentialDAO.class
+utility\DBConn.class
+com\servlet\registerServlet.class
+com\servlet\register.class
